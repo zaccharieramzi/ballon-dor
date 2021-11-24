@@ -24,7 +24,7 @@ def present_ranking(ranking):
 if RELOAD_POSITIONS:
     df = save_players_positions(DF_BALLON_DOR)
 else:
-    df_positions = pd.read_csv('players_positions_1637769598.csv')
+    df_positions = pd.read_csv(CSV_POSITIONS_PATH)
     df = pd.merge(DF_BALLON_DOR, df_positions, on='Player')
 df_defenders = df.query('Vetted_position== "defender"')
 r = get_ranking_on_period(1956, 2018, df=df_defenders)
