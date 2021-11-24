@@ -1,101 +1,99 @@
-,Player,Wikipedia_position
+,Player,Wikipedia_position,Vetted_position
 0,Stanley Matthews,"
-Outside right"
+Outside right",['forward']
 1,Alfredo Di Stéfano,"
-Forward"
+Forward",['forward']
 2,Raymond Kopa,"
-Attacking midfielder"
-3,Ferenc Puskás,"
-Striker, Attacking Midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
+3,Ferenc Puskás,,
 4,Lev Yashin,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 5,József Bozsik,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 6,Ernst Ocwirk,"
-Midfielder"
+Midfielder",['midfielder']
 7,Sándor Kocsis,"
-Striker"
+Striker",['forward']
 8,Thadée Cisowski,"
-Striker"
+Striker",['forward']
 9,Ivan Kolev,"
-Midfielder"
+Midfielder",['midfielder']
 10,Billy Wright,"
-Centre half"
+Centre half",['midfielder']
 11,Julinho,"
-Right winger"
+Right winger","['forward', 'forward']"
 12,Stefan Bozhkov,"
-Midfielder"
+Midfielder",['midfielder']
 13,Duncan Edwards,"
-Left half"
+Left half",['midfielder']
 14,Gerhard Hanappi,"
-Midfielder"
+Midfielder",['midfielder']
 15,Robert Jonquet,"
-Defender"
+Defender",['defender']
 16,Miguel Montuori,"
-Midfielder"
-17,Pepillo,
+Midfielder",['midfielder']
+17,Pepillo,,
 18,Juan Schiaffino,"
-Attacking Midfielder/Forward"
+Attacking Midfielder/Forward","['forward', 'midfielder', 'midfielder']"
 19,Eduard Streltsov,"
-ForwardAttacking midfielder"
+ForwardAttacking midfielder","['forward', 'midfielder', 'midfielder']"
 20,Campanal,"
-Striker"
+Striker",['forward']
 21,Bretislav Dolejsi,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 22,Roger Piantoni,"
-Inside-forward"
+Inside-forward","['forward', 'forward']"
 23,Kees Rijvers,"
-Midfielder"
+Midfielder",['midfielder']
 24,László Kubala,"
-Striker"
+Striker",['forward']
 25,John Charles,"
-Centre-forward, centre-back"
+Centre-forward, centre-back","['defender', 'forward', 'forward']"
 26,Tommy Taylor,"
-Centre-forward"
+Centre-forward","['forward', 'forward']"
 27,Igor Netto,"
-Midfielder"
+Midfielder",['midfielder']
 28,Gyula Grosics,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 29,Francisco Gento,"
-Outside-left"
+Outside-left",['forward']
 30,Miloš Milutinović,"
-Winger, Striker"
+Winger, Striker","['forward', 'forward']"
 31,Danny Blanchflower,"
-Right-half"
+Right-half",['midfielder']
 32,Johnny Haynes,"
-Inside forward"
+Inside forward","['forward', 'forward']"
 33,Horst Szymaniak,"
-Defensive midfielder/Box-to-box midfielder"
+Defensive midfielder/Box-to-box midfielder","['midfielder', 'midfielder', 'midfielder']"
 34,Kurt Hamrin,"
-Winger"
+Winger",['forward']
 35,Ladislav Novák,"
-Defender"
+Defender",['defender']
 36,Helmut Rahn,"
-Wing forward"
+Wing forward","['forward', 'forward']"
 37,Just Fontaine,"
-Striker"
+Striker",['forward']
 38,Harry Gregg,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 39,Nils Liedholm,"
-Attacking midfielder"
-40,Colin McDonald,"
-Goalkeeper"
+Attacking midfielder","['midfielder', 'midfielder']"
+40,Colin McDonald,,
 41,Gunnar Gren,"
-Forward, Attacking midfielder"
+Forward, Attacking midfielder","['forward', 'midfielder', 'midfielder']"
 42,Vujadin Boškov,"
-Right winger"
+Right winger","['forward', 'forward']"
 43,Valentin Ivanov,"
-Midfielder"
+Midfielder",['midfielder']
 44,Bengt Gustavsson,"
-Defender"
+Defender",['defender']
 45,Luis Suárez Miramontes,"
-Inside right / attacking midfielder"
+Inside right / attacking midfielder","['forward', 'midfielder', 'midfielder']"
 46,Bruno Nicolè,"
-Forward"
+Forward",['forward']
 47,Lennart Skoglund,"
-Left winger"
+Left winger","['forward', 'forward']"
 48,Orvar Bergmark,"
-Right back"
+Right back",['defender']
 49,Giampiero Boniperti,"Association football careerPosition(s)
 StrikerYouth career1944–1946
 JuventusSenior career*Years
@@ -111,106 +109,105 @@ Italy
 Italy B[1]
 1
 (2)
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 50,Agne Simonsson,"
-Striker"
+Striker",['forward']
 51,Lajos Tichy,"
-Striker"
+Striker",['forward']
 52,Yuriy Voynov,"
-Midfielder"
+Midfielder",['midfielder']
 53,Dezső Bundzsák,"
-Striker, midfielder[1]"
-54,Georgi Naydenov,
+Striker, midfielder[1]","['forward', 'midfielder']"
+54,Georgi Naydenov,,
 55,Titus Buberník,"
-Midfielder"
+Midfielder",['midfielder']
 56,Joan Segarra,"
-Defender"
+Defender",['defender']
 57,Flórián Albert,"
-Forward"
+Forward",['forward']
 58,Uwe Seeler,"
-Striker"
+Striker",['forward']
 59,Antoni Ramallets,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 60,János Göröcs,"
-Midfielder"
-61,Ken Jones,
+Midfielder",['midfielder']
+61,Ken Jones,,
 62,Roger Marche,"
-Left back"
+Left back",['defender']
 63,Bobby Charlton,"
-Attacking midfielderForward"
+Attacking midfielderForward","['forward', 'midfielder', 'midfielder']"
 64,Omar Sívori,"
-Forward"
+Forward",['forward']
 65,Borivoje Kostić,"
-Left winger, centre forward"
+Left winger, centre forward","['forward', 'forward', 'forward', 'forward']"
 66,Joseph Ujlaki,"
-Striker"
-67,Bobby Smith,
+Striker",['forward']
+67,Bobby Smith,,
 68,Jimmy Greaves,"
-Striker"
+Striker",['forward']
 69,Luis del Sol,"
-Midfielder"
+Midfielder",['midfielder']
 70,Károly Sándor,"
-Right winger"
+Right winger","['forward', 'forward']"
 71,Dragoslav Šekularac,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 72,Antonio Angelillo,"
-Inside forward, midfielder"
+Inside forward, midfielder","['forward', 'forward', 'midfielder']"
 73,Blagoje Vidinić,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 74,Erich Hof,"
-Striker"
+Striker",['forward']
 75,José Águas,"
-Striker"
+Striker",['forward']
 76,José Santamaría,"
-Centre back"
+Centre back",['defender']
 77,Josef Masopust,"
-Midfielder"
-78,Mikheil Meskhi,
-79,Germano,
+Midfielder",['midfielder']
+78,Mikheil Meskhi,,
+79,Germano,,
 80,Viktor Ponedelnik,"
-Striker"
+Striker",['forward']
 81,Denis Law,"
-Centre forward"
+Centre forward","['forward', 'forward']"
 82,Max Morlock,"
-Forward"
+Forward",['forward']
 83,Horst Nemec,"
-Forward"
+Forward",['forward']
 84,José Augusto,"
-Winger"
+Winger",['forward']
 85,Slava Metreveli,"
-Winger"
+Winger",['forward']
 86,Costa Pereira,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 87,Gert Dörfel,"
-Striker, winger"
+Striker, winger","['forward', 'forward']"
 88,Lucien Muller,"
-Midfielder"
+Midfielder",['midfielder']
 89,Norbert Eschmann,"
-Midfielder"
-90,Pierre Bernard,"
-Goalkeeper"
+Midfielder",['midfielder']
+90,Pierre Bernard,,
 91,Rudolf Kučera,"
-Forward"
+Forward",['forward']
 92,Mário Coluna,"
-Midfielder"
+Midfielder",['midfielder']
 93,Eusébio,"
-Striker"
+Striker",['forward']
 94,Dumitru Macri,"
-Central defender"
+Central defender","['defender', 'defender']"
 95,Karl Stotz,"
-Defender"
+Defender",['defender']
 96,Gernot Fraydl,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 97,Charles Antenen,"
-Forward"
+Forward",['forward']
 98,Jimmy McIlroy,"
-Forward/Attacking Midfielder"
+Forward/Attacking Midfielder","['forward', 'midfielder', 'midfielder']"
 99,Karl Koller,"
-Midfielder"
+Midfielder",['midfielder']
 100,Karl-Heinz Schnellinger,"
-Left-back / Sweeper"
+Left-back / Sweeper","['defender', 'defender']"
 101,Jef Jurion,"
-Winger"
+Winger",['forward']
 102,Gianni Rivera,"Association football careerPosition(s)
 
 Forward
@@ -231,250 +228,250 @@ AC Milan[1]
 Italy[4][5]
 60
 (14)
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only","['forward', 'midfielder', 'midfielder']"
 103,Milan Galić,"
-Striker"
+Striker",['forward']
 104,Andrej Kvašňák,"
-Attacking Midfielder, Forward"
+Attacking Midfielder, Forward","['forward', 'midfielder', 'midfielder']"
 105,Luis Del Sol,"
-Midfielder"
+Midfielder",['midfielder']
 106,André Lerond,"
-Sweeper"
-107,Ernő Solymosi,
+Sweeper",['defender']
+107,Ernő Solymosi,,
 108,Viliam Schrojf,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 109,Joaquín Peiró,"
-Midfielder"
+Midfielder",['midfielder']
 110,Ezio Pascutti,"
-Forward"
-111,Christopher Brooke,
+Forward",['forward']
+111,Christopher Brooke,,
 112,Giovanni Trapattoni,"
-Centre back, defensive midfielder"
+Centre back, defensive midfielder","['midfielder', 'midfielder', 'defender']"
 113,Paul Van Himst,"
-Forward"
+Forward",['forward']
 114,José Altafini,"
-Striker"
+Striker",['forward']
 115,Harry Bild,"
-Striker"
+Striker",['forward']
 116,Robert Herbin,"
-Defender, midfielder"
+Defender, midfielder","['midfielder', 'defender']"
 117,Cesare Maldini,"
-Defender"
+Defender",['defender']
 118,Ake Johansson,"
-Defender"
+Defender",['defender']
 119,Manfred Kaiser,"
-Midfielder"
+Midfielder",['midfielder']
 120,Metin Oktay,"
-Striker"
+Striker",['forward']
 121,Svatopluk Pluskal,"
-Defensive Midfielder"
+Defensive Midfielder","['midfielder', 'midfielder']"
 122,Amancio Amaro,"
-Outside right"
+Outside right",['forward']
 123,Mario Corso,"
-Winger"
+Winger",['forward']
 124,Valery Voronin,"
-Defensive Midfielder"
+Defensive Midfielder","['midfielder', 'midfielder']"
 125,Ferenc Bene,"
-Striker"
+Striker",['forward']
 126,Jean Nicolay,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 127,Helmut Haller,"
-Forward"
+Forward",['forward']
 128,José Torres,"
-Striker"
+Striker",['forward']
 129,Coen Moulijn,"
-Left winger"
+Left winger","['forward', 'forward']"
 130,Giacinto Facchetti,"
-Left-back"
+Left-back",['defender']
 131,Sandro Mazzola,"
-ForwardAttacking midfielder"
+ForwardAttacking midfielder","['forward', 'midfielder', 'midfielder']"
 132,Bobby Moore,"
-Defender"
+Defender",['defender']
 133,Klaus Urbanczyk,"
-Defender"
+Defender",['defender']
 134,Ole Madsen,"
-Striker"
+Striker",['forward']
 135,Néstor Combin,"
-Forward"
+Forward",['forward']
 136,Georgi Asparuhov,"
-Striker"
+Striker",['forward']
 137,Alessandro Mazzola,"
-ForwardAttacking midfielder"
+ForwardAttacking midfielder","['forward', 'midfielder', 'midfielder']"
 138,Jim Baxter,"
-Left-half"
+Left-half",['midfielder']
 139,Franz Beckenbauer,"
-Defender"
+Defender",['defender']
 140,Philippe Gondet,"
-Striker"
+Striker",['forward']
 141,Ivor Allchurch,"
-Inside forward"
+Inside forward","['forward', 'forward']"
 142,Jakob Kühn,"
-Midfielder"
+Midfielder",['midfielder']
 143,Sigfried Held,"
-Attacking midfielder/Forward"
+Attacking midfielder/Forward","['forward', 'midfielder', 'midfielder']"
 144,Alan Ball,"
-Midfielder"
+Midfielder",['midfielder']
 145,János Farkas,"
-Striker"
+Striker",['forward']
 146,Geoff Hurst,"
-Striker"
+Striker",['forward']
 147,Gordon Banks,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 148,Tony Dunne,"
-Left-back"
+Left-back",['defender']
 149,Willi Schulz,"
-Centre back, Sweeper"
+Centre back, Sweeper","['defender', 'defender']"
 150,Igor Chislenko,"
-Forward"
+Forward",['forward']
 151,Jimmy Johnstone,"
-Outside right"
+Outside right",['forward']
 152,Tommy Gemmell,"
-Left back"
+Left back",['defender']
 153,Gerd Müller,"
-Striker"
+Striker",['forward']
 154,George Best,"
-WingerAttacking midfielder"
+WingerAttacking midfielder","['forward', 'midfielder', 'midfielder']"
 155,Pirri,"
-Midfielder / Sweeper"
+Midfielder / Sweeper","['midfielder', 'defender']"
 156,Luigi Riva,"
-Forward (association football)#Left-winger"
-157,Anatoliy Byshovets,
+Forward (association football)#Left-winger","['forward', 'forward', 'forward']"
+157,Anatoliy Byshovets,,
 158,Włodzimierz Lubański,"
-Forward"
+Forward",['forward']
 159,Zvezdan Čebinac,"
-Midfielder"
+Midfielder",['midfielder']
 160,Wolfgang Overath,"
-Attacking Midfielder"
+Attacking Midfielder","['midfielder', 'midfielder']"
 161,Nikola Kotkov,"
-Striker"
+Striker",['forward']
 162,Louis Pilot,"
-Midfielder"
+Midfielder",['midfielder']
 163,Pedro de Felipe,"
-Defender"
+Defender",['defender']
 164,Zygfryd Szołtysik,"
-midfielder"
+midfielder",['midfielder']
 165,Ove Kindvall,"
-Striker"
-166,Johan Cruijff,
+Striker",['forward']
+166,Johan Cruijff,,
 167,Jørn Bjerregaard,"
-Striker"
+Striker",['forward']
 168,Dragan Džajić,"
-Left winger"
+Left winger","['forward', 'forward']"
 169,Antal Dunai,"
-Striker"
+Striker",['forward']
 170,Albert Shesternyov,"
-Libero"
-171,Lajos Szucs,
+Libero",['defender']
+171,Lajos Szucs,,
 172,Jack Charlton,"
-Centre back"
+Centre back",['defender']
 173,Angelo Domenghini,"
-Forward/Winger"
+Forward/Winger","['forward', 'forward']"
 174,Mirsad Fazlagić,"
-Defender"
+Defender",['defender']
 175,Murtaz Khurtsilava,"
-Defender"
+Defender",['defender']
 176,Ivica Osim,"
-Midfielder"
+Midfielder",['midfielder']
 177,Pierino Prati,"
-Striker"
+Striker",['forward']
 178,Petar Zhekov,"
-Forward"
+Forward",['forward']
 179,Franny Lee,"
-Forward"
+Forward",['forward']
 180,Martin Peters,"
-Midfielder"
+Midfielder",['midfielder']
 181,Jozef Adamec,"
-Forward"
+Forward",['forward']
 182,Angelo Sormani,"
-Striker"
+Striker",['forward']
 183,Giorgos Sideris,"
-Striker"
+Striker",['forward']
 184,Manuel Velázquez,"
-Midfielder"
+Midfielder",['midfielder']
 185,Billy Bremner,"
-Midfielder"
+Midfielder",['midfielder']
 186,Kazimierz Deyna,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 187,Mimis Domazos,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 188,Gilbert Gress,"
-Midfielder, forward"
+Midfielder, forward","['forward', 'midfielder']"
 189,Vladimir Muntyan,"
-Midfielder"
+Midfielder",['midfielder']
 190,Wilfried Van Moer,"
-Midfielder"
+Midfielder",['midfielder']
 191,Ivo Viktor,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 192,Rinus Israël,"
-Defender"
+Defender",['defender']
 193,Willem van Hanegem,"
-Midfielder"
+Midfielder",['midfielder']
 194,Terence Cooper,"
-Defender"
+Defender",['defender']
 195,Josip Skoblar,"
-Forward"
+Forward",['forward']
 196,Cornel Dinu,"
-SweeperDefensive midfielder"
+SweeperDefensive midfielder","['midfielder', 'midfielder', 'defender']"
 197,Jean Djorkaeff,"
-Defender"
+Defender",['defender']
 198,Florea Dumitrache,"
-Striker"
+Striker",['forward']
 199,Franz Hasil,"
-Midfielder"
+Midfielder",['midfielder']
 200,Hansi Kreische,"
-Striker"
+Striker",['forward']
 201,Carles Rexach,"
-Winger"
+Winger",['forward']
 202,Günter Netzer,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 203,Martin Chivers,"
-Forward"
+Forward",['forward']
 204,Piet Keizer,"
-Left winger"
+Left winger","['forward', 'forward']"
 205,Yevgeniy Rudakov,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 206,Berti Vogts,"
-Defender"
+Defender",['defender']
 207,Terry Cooper,"
-Left back"
+Left back",['defender']
 208,Francis Lee,"
-Forward"
+Forward",['forward']
 209,Barry Hulshoff,"
-Defender"
+Defender",['defender']
 210,Hristo Bonev,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 211,Gerrie Mühren,"
-Midfielder"
+Midfielder",['midfielder']
 212,Paul Breitner,"
-Left-back, midfielder"
+Left-back, midfielder","['midfielder', 'defender']"
 213,Giorgio Chinaglia,"
-Striker"
+Striker",['forward']
 214,Johnny Giles,"
-Midfielder"
+Midfielder",['midfielder']
 215,John Greig,"
-Defender"
+Defender",['defender']
 216,Johan Neeskens,"
-Centre Midfielder"
+Centre Midfielder","['midfielder', 'midfielder']"
 217,Marius Trésor,"
-Defender"
+Defender",['defender']
 218,Dino Zoff,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 219,Ralf Edström,"
-Forward"
+Forward",['forward']
 220,Uli Hoeneß,"
-Forward"
+Forward",['forward']
 221,Juan Manuel Asensi,"
-Midfielder"
+Midfielder",['midfielder']
 222,Jan Tomaszewski,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 223,Hans-Jürgen Kreische,"
-Striker"
+Striker",['forward']
 224,Roland Sandberg,"
-Striker"
+Striker",['forward']
 225,Pat Jennings,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 226,Vladislav Bogićević,"
-Midfielder"
+Midfielder",['midfielder']
 227,Grzegorz Lato,"Association football careerPosition(s)
 WingerSenior career*Years
 Team
@@ -541,53 +538,53 @@ Team
 Team
 
 
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 228,Robert Gadocha,"
-Left Winger"
+Left Winger","['forward', 'forward']"
 229,Jürgen Sparwasser,"
-Midfielder"
+Midfielder",['midfielder']
 230,Ronnie Hellström,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 231,Jerzy Gorgoń,"
-Defender"
+Defender",['defender']
 232,Sepp Maier,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 233,Oleg Blokhin,"
-Forward"
+Forward",['forward']
 234,Rainer Bonhof,"
-Midfielder"
+Midfielder",['midfielder']
 235,Jean-Marc Guillou,"
-Midfielder"
+Midfielder",['midfielder']
 236,Branko Oblak,"
-Midfielder"
+Midfielder",['midfielder']
 237,Ruud Geels,"
-Second striker / Attacking midfielder"
+Second striker / Attacking midfielder","['forward', 'forward', 'midfielder', 'midfielder']"
 238,Jupp Heynckes,"
-Forward"
+Forward",['forward']
 239,Colin Todd,"
-Central defender"
+Central defender","['defender', 'defender']"
 240,Dudu Georgescu,"
-Striker"
+Striker",['forward']
 241,Peter Lorimer,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 242,Josip Katalinski,"
-Defender"
+Defender",['defender']
 243,Ján Pivarník,"
-Right back"
+Right back",['defender']
 244,Leonid Buryak,"
-Midfielder"
+Midfielder",['midfielder']
 245,Jürgen Croy,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 246,João Resende Alves,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 247,Don Givens,"
-Forward"
+Forward",['forward']
 248,Allan Simonsen,"
-Striker"
+Striker",['forward']
 249,Rob Rensenbrink,"
-Left winger, Forward"
+Left winger, Forward","['forward', 'forward', 'forward']"
 250,Kevin Keegan,"
-Forward"
+Forward",['forward']
 251,Michel Platini,"Association football careerPosition(s)
 Attacking midfielderYouth career1966–1972
 AS Jœuf1972
@@ -646,81 +643,81 @@ Winner
 
 
 
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only","['midfielder', 'midfielder']"
 252,Anton Ondrus,"
-Sweeper"
+Sweeper",['defender']
 253,Ivan Ćurković,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 254,Marian Masny,"
-Winger"
+Winger",['forward']
 255,Franco Causio,"
-Right winger"
+Right winger","['forward', 'forward']"
 256,Tibor Nyilasi,"
-Midfielder"
+Midfielder",['midfielder']
 257,Jaroslav Pollak,"
-Midfielder"
+Midfielder",['midfielder']
 258,Roberto Bettega,"
-Forward"
+Forward",['forward']
 259,Joachim Streich,"
-Striker"
+Striker",['forward']
 260,Gerard Janvion,"
-Defender"
+Defender",['defender']
 261,Dieter Müller,"
-Striker"
+Striker",['forward']
 262,Santillana,"
-Striker"
+Striker",['forward']
 263,Benny Wendt,"
-Forward"
+Forward",['forward']
 264,Dominique Rocheteau,"
-Winger"
+Winger",['forward']
 265,Dominique Bathenay,"
-Midfielder[1]"
-266,Ali Cemal,
+Midfielder[1]",['midfielder']
+266,Ali Cemal,,
 267,Klaus Fischer,"
-Forward"
+Forward",['forward']
 268,Emlyn Hughes,"
-Defender / Midfielder"
+Defender / Midfielder","['midfielder', 'defender']"
 269,Steve Heighway,"
-Winger"
+Winger",['forward']
 270,Trevor Brooking,"
-Midfielder"
+Midfielder",['midfielder']
 271,Anders Linderoth,"
-Midfielder"
+Midfielder",['midfielder']
 272,Ruud Krol,"
-Left back, Sweeper"
+Left back, Sweeper","['defender', 'defender']"
 273,Heinz Flohe,"
-Midfielder"
+Midfielder",['midfielder']
 274,Peter Shilton,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 275,Giancarlo Antognoni,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 276,Jürgen Grabowski,"
-Forward, Midfielder"
+Forward, Midfielder","['forward', 'midfielder']"
 277,Ray Kennedy,"
-Midfielder, centre-forward"
+Midfielder, centre-forward","['forward', 'forward', 'midfielder']"
 278,Hans Krankl,"
-Striker"
+Striker",['forward']
 279,Gordon McQueen,"
-Defender"
-280,Andras Toroczik,
+Defender",['defender']
+280,Andras Toroczik,,
 281,Paolo Rossi,"
-Striker"
+Striker",['forward']
 282,Kenny Dalglish,"
-Forward"
+Forward",['forward']
 283,Arie Haan,"
-Midfielder"
+Midfielder",['midfielder']
 284,René van de Kerkhof,"
-Right Winger"
+Right Winger","['forward', 'forward']"
 285,Antonio Cabrini,"
-Left-back"
+Left-back",['defender']
 286,Willy van de Kerkhof,"
-Midfielder"
+Midfielder",['midfielder']
 287,Graeme Souness,"
-Midfielder[1]"
+Midfielder[1]",['midfielder']
 288,Zdenek Nehoda,"
-Striker"
+Striker",['forward']
 289,Archie Gemmill,"
-Midfielder"
+Midfielder",['midfielder']
 290,Zbigniew Boniek,"Association football careerPosition(s)
 
 Midfielder
@@ -754,348 +751,348 @@ Bari1992–1993
 Sambenedettese1994–1996
 Avellino2002
 Poland
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only","['forward', 'midfielder', 'defender']"
 291,Hansi Müller,"
-Midfielder"
+Midfielder",['midfielder']
 292,Karl-Heinz Rummenigge,"
-Forward"
+Forward",['forward']
 293,Didier Six,"
-Left winger"
+Left winger","['forward', 'forward']"
 294,Francois Van Der Elst,"
-Winger"
+Winger",['forward']
 295,Manfred Kaltz,"
-Right-back"
+Right-back",['defender']
 296,Trevor Francis,"
-Forward"
-297,Liam Brady,
+Forward",['forward']
+297,Liam Brady,,
 298,Kees Kist,"
-Forward"
+Forward",['forward']
 299,Johnny Rep,"
-Right winger"
+Right winger","['forward', 'forward']"
 300,Tony Woodcock,"
-Striker"
+Striker",['forward']
 301,Safet Sušić,"
-Attacking midfieldersecond striker"
+Attacking midfieldersecond striker","['forward', 'forward', 'midfielder', 'midfielder']"
 302,Uli Stielike,"
-Midfielder, Sweeper"
+Midfielder, Sweeper","['midfielder', 'defender']"
 303,Bruno Pezzey,"
-Defender"
+Defender",['defender']
 304,Simon Tahamata,"
-Left winger"
+Left winger","['forward', 'forward']"
 305,Antonin Panenka,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 306,Walter Schachner,"
-Striker"
+Striker",['forward']
 307,Bernd Schuster,"
-Midfielder"
+Midfielder",['midfielder']
 308,Jan Ceulemans,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 309,Horst Hrubesch,"
-Centre forward"
+Centre forward","['forward', 'forward']"
 310,Herbert Prohaska,"
-Midfielder"
+Midfielder",['midfielder']
 311,Erwin Vandenbergh,"
-Striker"
+Striker",['forward']
 312,Luis Arconada,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 313,Viv Anderson,"
-Defender"
+Defender",['defender']
 314,Francesco Graziani,"
-Forward"
+Forward",['forward']
 315,Terry McDermott,"
-Midfielder"
+Midfielder",['midfielder']
 316,Manuel Bento,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 317,Ladislav Vizek,"
-Striker"
+Striker",['forward']
 318,Frank Arnesen,"
-Midfielder"
+Midfielder",['midfielder']
 319,David O'Leary,"
-Centre back"
+Centre back",['defender']
 320,Vladimir Petrović,"
-Midfielder"
+Midfielder",['midfielder']
 321,Alessandro Altobelli,"
-Forward"
+Forward",['forward']
 322,Marcel Raducanu,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 323,Ramaz Shengelia,"
-Striker"
-324,Alexsandr Chivadze,
+Striker",['forward']
+324,Alexsandr Chivadze,,
 325,John Wark,"
-Midfielder"
+Midfielder",['midfielder']
 326,David Kipiani,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 327,Maxime Bossis,"
-Defender"
+Defender",['defender']
 328,Zlatko Vujović,"
-Striker"
+Striker",['forward']
 329,Bryan Robson,"
-Midfielder"
+Midfielder",['midfielder']
 330,Frank Stapleton,"
-Forward"
+Forward",['forward']
 331,Wlodzimierz Smolarek,"
-Striker"
+Striker",['forward']
 332,Frans Thijssen,"
-Midfielder"
+Midfielder",['midfielder']
 333,Antonio Oliveira,"
-Right back"
+Right back",['defender']
 334,Jesus Zamora,"
-Midfielder"
+Midfielder",['midfielder']
 335,Alain Giresse,"
-Midfielder"
+Midfielder",['midfielder']
 336,Bruno Conti,"
-Winger"
+Winger",['forward']
 337,Rinat Dassaev,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 338,Pierre Littbarski,"
-Attacking midfielder, winger"
+Attacking midfielder, winger","['forward', 'midfielder', 'midfielder']"
 339,Gaetano Scirea,"
-Defender"
+Defender",['defender']
 340,Eric Gerets,"
-Right back"
+Right back",['defender']
 341,Torbjörn Nilsson,"
-Striker"
+Striker",['forward']
 342,Marco Tardelli,"
-Midfielder, defender"
+Midfielder, defender","['midfielder', 'defender']"
 343,Gordon Strachan,"
-Midfielder"
+Midfielder",['midfielder']
 344,Felix Magath,"
-Central midfielder, attacking midfielder"
+Central midfielder, attacking midfielder","['midfielder', 'midfielder', 'midfielder']"
 345,Jean Marie Pfaff,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 346,Jesper Olsen,"
-Left winger"
+Left winger","['forward', 'forward']"
 347,Fernando Gomes,"
-Striker"
-348,Frankie Vercauteren,
+Striker",['forward']
+348,Frankie Vercauteren,,
 349,Ian Rush,"
-Forward[4]"
+Forward[4]",['forward']
 350,Morten Olsen,"
-Sweeper, defensive midfielder"
+Sweeper, defensive midfielder","['midfielder', 'midfielder', 'defender']"
 351,Norman Whiteside,"
-MidfielderStriker"
+MidfielderStriker","['forward', 'midfielder']"
 352,Michael Laudrup,"
-Attacking midfielder, forward"
+Attacking midfielder, forward","['forward', 'midfielder', 'midfielder']"
 353,Carlos Manuel Santos,"
-Forward"
+Forward",['forward']
 354,Vasilis Hatzipanagis,"
-Midfielder"
+Midfielder",['midfielder']
 355,Glenn Hysén,"
-Defender"
+Defender",['defender']
 356,Costica Stefanescu,"
-Centre-back"
+Centre-back",['defender']
 357,Fedor Cherenkov,"
-Midfielder"
+Midfielder",['midfielder']
 358,Ruud Gullit,"
-Forward, midfielder, defender"
+Forward, midfielder, defender","['forward', 'midfielder', 'defender']"
 359,Soren Lerby,"
-Midfielder"
-360,Stoicho Mladenov,
+Midfielder",['midfielder']
+360,Stoicho Mladenov,,
 361,Rudi Völler,"
-Forward"
+Forward",['forward']
 362,Jean Tigana,"
-Central midfielder"
-363,Preben Elkjar-Larsen,
+Central midfielder","['midfielder', 'midfielder']"
+363,Preben Elkjar-Larsen,,
 364,Fernando Chalana,"
-Winger"
+Winger",['forward']
 365,Harald Schumacher,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 366,Enzo Scifo,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 367,Klaus Allofs,"
-Striker"
+Striker",['forward']
 368,Hans-Peter Briegel,"
-Left backCentre backDefensive midfielder"
+Left backCentre backDefensive midfielder","['midfielder', 'defender', 'midfielder', 'defender']"
 369,Rui Jordao,"
-Striker"
+Striker",['forward']
 370,Paul McStay,"
-Midfielder"
+Midfielder",['midfielder']
 371,Mark Hateley,"
-Centre forward"
+Centre forward","['forward', 'forward']"
 372,Silviu Lung,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 373,Antonio Maceda,"
-Centre back"
+Centre back",['defender']
 374,Oleg Protassov,"
-Forward"
+Forward",['forward']
 375,Luis Fernandez,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 376,Rafael Gordillo,"
-Wingback"
+Wingback",['defender']
 377,Emilio Butragueno,"
-Striker"
-378,John Sivebak,
-379,Gheorghe Hagi,
+Striker",['forward']
+378,John Sivebak,,
+379,Gheorghe Hagi,,
 380,Neville Southall,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 381,Lajos Detari,"
-Midfielder"
+Midfielder",['midfielder']
 382,Vahid Halilhodžić,"
-Forward"
+Forward",['forward']
 383,Peter Reid,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 384,Steve Archibald,"
-Striker"
+Striker",['forward']
 385,Anatoli Demianenko,"
-Left Back, Left Winger"
+Left Back, Left Winger","['forward', 'defender', 'forward']"
 386,Georgi Dimitrov,"
-Centre-back"
+Centre-back",['defender']
 387,Gary Stevens,"
-Defender"
+Right back",['defender']
 388,Andreas Thom,"
-Forward"
+Forward",['forward']
 389,Igor Belanov,"
-Striker"
+Striker",['forward']
 390,Gary Lineker,"
-Striker"
+Striker",['forward']
 391,Manuel Amoros,"
-Right back"
+Right back",['defender']
 392,Alexander Zavarov,"
-Attacking midfielder  Left-backLeft wing-back"
+Attacking midfielder  Left-backLeft wing-back","['midfielder', 'midfielder', 'defender', 'defender']"
 393,Helmuth Ducadam,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 394,Marco van Basten,"
-Striker"
+Striker",['forward']
 395,Paulo Futre,"
-Winger"
+Winger",['forward']
 396,Pavel Yakovenko,"
-Midfielder"
+Midfielder",['midfielder']
 397,Karl-Heinz Förster,"
-Centre back"
+Centre back",['defender']
 398,Lothar Matthäus,"
-Midfielder, sweeper"
+Midfielder, sweeper","['midfielder', 'defender']"
 399,Míchel del Campo,"
-Midfielder"
+Midfielder",['midfielder']
 400,John Barnes,"
-Left winger"
+Left winger","['forward', 'forward']"
 401,Gianluca Vialli,"
-Striker"
+Striker",['forward']
 402,Anton Polster,"
-Striker"
+Striker",['forward']
 403,Paul McGrath,"
-Centre back[1]"
+Centre back[1]",['defender']
 404,Rodion Camataru,"
-Striker"
+Striker",['forward']
 405,Heinz Hermann,"
-Midfielder"
+Midfielder",['midfielder']
 406,Ally McCoist,"
-Striker"
-407,Joszef Mlynarczyk,
+Striker",['forward']
+407,Joszef Mlynarczyk,,
 408,Peter Beardsley,"
-Forward, Midfielder"
+Forward, Midfielder","['forward', 'midfielder']"
 409,Glenn Hoddle,"
-Midfielder"
+Midfielder",['midfielder']
 410,Sokol Kushta,"
-Striker"
+Striker",['forward']
 411,Dimitris Saravakos,"
-Winger, Attacking midfielder"
+Winger, Attacking midfielder","['forward', 'midfielder', 'midfielder']"
 412,Frank Rijkaard,"
-Defensive midfielder, centre-back"
-413,Alexei Mikhailitchenko,
+Defensive midfielder, centre-back","['defender', 'midfielder', 'midfielder']"
+413,Alexei Mikhailitchenko,,
 414,Ronald Koeman,"
-Defender, midfielder"
+Defender, midfielder","['midfielder', 'defender']"
 415,Jürgen Klinsmann,"
-Striker"
+Striker",['forward']
 416,Franco Baresi,"
-Defender"
+Defender",['defender']
 417,Tanju Colak,"
-Striker"
+Striker",['forward']
 418,Oleg Kuznetsov,"
-Central defender"
+Central defender","['defender', 'defender']"
 419,Flemming Povlsen,"
-Forward"
+Forward",['forward']
 420,Michel Preud'homme,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 421,Walter Zenga,"
-Goalkeeper"
-422,Roberto Mancini,
+Goalkeeper",['goalkeeper']
+422,Roberto Mancini,,
 423,Dejan Savićević,"
-Attacking midfielder / Winger"
+Attacking midfielder / Winger","['forward', 'midfielder', 'midfielder']"
 424,Dragan Stojković,"
-Midfielder"
+Midfielder",['midfielder']
 425,Jean Pierre Papin,"
-Striker"
+Striker",['forward']
 426,Andreas Brehme,"
-Left back, left wing-back, left midfielder"
+Left back, left wing-back, left midfielder","['midfielder', 'defender', 'midfielder', 'defender']"
 427,Karl-Heinz Riedle,"
-Striker"
+Striker",['forward']
 428,Pat Bonner,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 429,Andreas Möller,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 430,Julio Salinas,"
-Centre forward"
+Centre forward","['forward', 'forward']"
 431,Thomas Hässler,"
-Midfielder"
+Midfielder",['midfielder']
 432,Roby Langers,"
-Striker"
+Striker",['forward']
 433,Paolo Maldini,"
-Defender"
+Defender",['defender']
 434,Theo Snelders,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 435,Salvatore Schillaci,"
-Striker"
+Striker",['forward']
 436,Paul Gascoigne,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 437,Roberto Baggio,"
-Forward, attacking midfielder"
+Forward, attacking midfielder","['forward', 'midfielder', 'midfielder']"
 438,Guido Buchwald,"
-Defender"
-439,Rafael Martín Vásquez,
+Defender",['defender']
+439,Rafael Martín Vásquez,,
 440,Robert Prosinečki,"
-Midfielder"
+Midfielder",['midfielder']
 441,Des Walker,"
-Centre-back"
+Centre-back",['defender']
 442,David Platt,"
-Midfielder"
+Midfielder",['midfielder']
 443,Chris Waddle,"
-Winger, attacking midfielder"
+Winger, attacking midfielder","['forward', 'midfielder', 'midfielder']"
 444,Darko Pančev,"
-Forward"
+Forward",['forward']
 445,Miodrag Belodedici,"
-Sweeper"
+Sweeper",['defender']
 446,Mark Hughes,"
-Striker, Midfielder"
+Striker, Midfielder","['forward', 'midfielder']"
 447,Aitor Beguiristain,"
-Winger, forward"
+Winger, forward","['forward', 'forward']"
 448,Bruno Martini,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 449,Dean Saunders,"
-Striker"
+Striker",['forward']
 450,Hristo Stoichkov,"
-Forward"
+Forward",['forward']
 451,Stéphane Chapuisat,"
-Striker"
+Striker",['forward']
 452,Laurent Blanc,"
-Centre-back[4]"
+Centre-back[4]",['defender']
 453,Thomas Doll,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 454,Stefan Effenberg,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 455,Guy Hellers,"
-Midfielder"
+Midfielder",['midfielder']
 456,Gianluca Pagliuca,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 457,Gary Pallister,"
-Centre-back[1]"
+Centre-back[1]",['defender']
 458,Dennis Bergkamp,"
-Forward"
+Forward",['forward']
 459,Peter Schmeichel,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 460,Brian Laudrup,"
-Forward[1][2][3] Winger[4][5]  Midfielder[6]"
+Forward[1][2][3] Winger[4][5]  Midfielder[6]","['forward', 'forward', 'midfielder']"
 461,Henrik Larsen,"
-Midfielder"
+Midfielder",['midfielder']
 462,John Jensen,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 463,Henrik Andersen,"
-Left-back"
+Left-back",['defender']
 464,Tomas Brolin,"
-Midfielder, forward"
+Midfielder, forward","['forward', 'midfielder']"
 465,Rune Bratseth,"
-Sweeper"
+Sweeper",['defender']
 466,Andreas Herzog,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 467,Eric Cantona,"Association football careerPosition(s)
 Forward[4]Youth career1980–1981
 SO Les Caillols1981–1983
@@ -1147,53 +1144,53 @@ France (beach)
 Teams managed1997–2011
 France (beach)2011–2012
 New York Cosmos (director of soccer)
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 468,Alen Bokšić,"
-Forward"
+Forward",['forward']
 469,Emil Kostadinov,"
-Striker, winger"
+Striker, winger","['forward', 'forward']"
 470,Ryan Giggs,"
-Midfielder"
+Midfielder",['midfielder']
 471,Basile Boli,"
-Defender"
+Defender",['defender']
 472,Jari Litmanen,"
-Attacking midfielderSecond striker"
+Attacking midfielderSecond striker","['forward', 'forward', 'midfielder', 'midfielder']"
 473,Dino Baggio,"
-Midfielder"
+Midfielder",['midfielder']
 474,Sergei Kiriakov,"
-Winger / Striker"
+Winger / Striker","['forward', 'forward']"
 475,Franck Sauzée,"
-Midfielder,[4] sweeper[4]"
+Midfielder,[4] sweeper[4]","['midfielder', 'defender']"
 476,Giuseppe Signori,"
-Striker, left winger"
+Striker, left winger","['forward', 'forward', 'forward']"
 477,Martin Dahlin,"
-Striker"
+Striker",['forward']
 478,Georges Grün,"
-Defender"
+Defender",['defender']
 479,Stelios Manolas,"
-Center back"
+Center back",['defender']
 480,Thomas Ravelli,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 481,Marcel Desailly,"
-Centre-back, defensive midfielder"
+Centre-back, defensive midfielder","['defender', 'midfielder', 'midfielder']"
 482,Yordan Letchkov,"
-Midfielder"
+Midfielder",['midfielder']
 483,Krassimir Balakov,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 484,José Luis Caminero,"
-Midfielder"
+Midfielder",['midfielder']
 485,Philippe Albert,"
-Defender"
+Defender",['defender']
 486,Otto Konrad,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 487,Ciriaco Sforza,"
-Midfielder"
+Midfielder",['midfielder']
 488,Kennet Andersson,"
-Forward"
+Forward",['forward']
 489,Zvonimir Boban,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 490,Josep Guardiola,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 491,George Weah,"Association football careerPosition(s)
 StrikerYouth career1981–1984
 Young Survivors ClaratownSenior career*Years
@@ -1242,21 +1239,21 @@ Al Jazira
 Liberia
 75
 (18)
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 492,Alessandro Del Piero,"
-Forward"
+Forward",['forward']
 493,Patrick Kluivert,"
-Striker"
+Striker",['forward']
 494,Gianfranco Zola,"
-Forward"
+Forward",['forward']
 495,Marc Overmars,"
-Winger"
+Winger",['forward']
 496,Matthias Sammer,"
-Defensive midfielder Sweeper"
+Defensive midfielder Sweeper","['midfielder', 'midfielder', 'defender']"
 497,Fabrizio Ravanelli,"
-Striker"
+Striker",['forward']
 498,Paulo Manuel Sousa,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 499,Davor Šuker,"Association football careerPosition(s)
 StrikerYouth career1984
 OsijekSenior career*Years
@@ -1333,23 +1330,23 @@ FIFA World Cup
 1998
 
 
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 500,Fernando Hierro,"
-Defender, defensive midfielder"
+Defender, defensive midfielder","['midfielder', 'midfielder', 'defender']"
 501,Gabriel Batistuta,"
-Striker"
+Striker",['forward']
 502,Finidi George,"
-Winger"
+Winger",['forward']
 503,Anthony Yeboah,"
-Striker"
+Striker",['forward']
 504,Ronaldo,"
-Striker"
+Striker",['forward']
 505,Juan Esnaider,"
-Striker"
+Striker",['forward']
 506,Iván Zamorano,"
-Striker"
+Striker",['forward']
 507,Vítor Manuel Baía,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 508,Bebeto,"Association football careerPosition(s)
 ForwardYouth career1981
 Bahia1981–1982
@@ -1477,9 +1474,9 @@ Winner
 
 
 
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 509,Luis Figo,"
-Midfielder"
+Midfielder",['midfielder']
 510,Alan Shearer,"Association football careerPosition(s)
 StrikerYouth career000
 Wallsend Boys Club1986–1988
@@ -1509,35 +1506,35 @@ England
 63
 (30)Teams managed2009
 Newcastle United (interim)
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['forward']
 511,Ian Wright,"
-Striker"
+Striker",['forward']
 512,Youri Djorkaeff,"
-Attacking midfielderForward"
+Attacking midfielderForward","['forward', 'midfielder', 'midfielder']"
 513,Karel Poborsky,"
-Winger"
+Winger",['forward']
 514,Nwankwo Kanu,"
-Forward[2]"
+Forward[2]",['forward']
 515,Andreas Köpke,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 516,Predrag Mijatovic,"
-Striker"
+Striker",['forward']
 517,Didier Deschamps,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 518,Kubilay Turkyilmaz,"
-Striker"
+Striker",['forward']
 519,David Seaman,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 520,Raúl González,"
-Forward"
+Forward",['forward']
 521,Christian Ziege,"
-Left wing-back"
+Left wing-back",['defender']
 522,Patrick Berger,"
-Left winger, attacking midfielder"
+Left winger, attacking midfielder","['forward', 'midfielder', 'midfielder', 'forward']"
 523,Trifon Ivanov,"
-Centre-back"
+Centre-back",['defender']
 524,Radek Bejbl,"
-Midfielder"
+Midfielder",['midfielder']
 525,Manuel Rui Costa,"Association football careerPosition(s)
 Attacking midfielderYouth career1977–1990
 BenficaSenior career*Years
@@ -1616,23 +1613,23 @@ Runner-up
 
 
 
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only","['midfielder', 'midfielder']"
 526,Ronald de Boer,"
-Attacking midfielder, forward"
+Attacking midfielder, forward","['forward', 'midfielder', 'midfielder']"
 527,Sergi Barjuan,"
-Left-back"
+Left-back",['defender']
 528,Zinedine Zidane,"
-Midfielder"
+Midfielder",['midfielder']
 529,Roberto Carlos,"
-Left-back"
+Left-back",['defender']
 530,Christian Vieri,"
-Striker"
+Striker",['forward']
 531,Jürgen Köhler,"
-Centre-back"
+Centre-back",['defender']
 532,Luis Enrique Martínez,"
-Midfielder / Forward"
+Midfielder / Forward","['forward', 'midfielder']"
 533,Clarence Seedorf,"
-Midfielder"
+Midfielder",['midfielder']
 534,David Beckham,"Association football careerPosition(s)
 MidfielderYouth career
 Ridgeway Rovers1987–1991
@@ -1675,192 +1672,193 @@ England U21
 England
 115
 (17)
-* Senior club appearances and goals counted for the domestic league only"
+* Senior club appearances and goals counted for the domestic league only",['midfielder']
 535,Olaf Thon,"
-Midfielder, defender"
+Midfielder, defender","['midfielder', 'defender']"
 536,Juninho Oswaldo,"
 
 Midfielder
 Inside forward
-"
+","['forward', 'forward', 'midfielder']"
 537,Lilian Thuram,"
-Defender"
+Defender",['defender']
 538,Oliver Bierhoff,"
-Striker"
+Striker",['forward']
 539,Angelo Peruzzi,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 540,Raí Souza de Oliveira,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 541,Victor Ikpeba,"
-Forward"
+Forward",['forward']
 542,Ciro Ferrara,"
-Fullback"
+Fullback",['defender']
 543,Rivaldo,"
-Attacking midfielder / Forward"
+Attacking midfielder / Forward","['forward', 'midfielder', 'midfielder']"
 544,Bent Skammelsrud,"
-Midfielder"
+Midfielder",['midfielder']
 545,Michael Owen,"
-Striker"
+Striker",['forward']
 546,Edgar Davids,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 547,Frank de Boer,"
-Defender"
+Defender",['defender']
 548,Emmanuel Petit,"
-Midfielder"
+Midfielder",['midfielder']
 549,Fabien Barthez,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 550,Bixente Lizarazu,"
-Left back"
+Left back",['defender']
 551,Nikos Mahlas,"
-Striker"
+Striker",['forward']
 552,Andriy Shevchenko,"
-Striker"
+Striker",['forward']
 553,Roy Keane,"
-Midfielder"
+Midfielder",['midfielder']
 554,Juan Sebastián Verón,"
-Midfielder"
+Midfielder",['midfielder']
 555,Dwight Yorke,"
-ForwardMidfielder"
+ForwardMidfielder","['forward', 'midfielder']"
 556,Jaap Stam,"
-Centre-back"
+Centre-back",['defender']
 557,Siniša Mihajlović,"
-Defender"
+Defender",['defender']
 558,Zlatko Zahovič,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 559,Pavel Nedved,"
-WingerAttacking midfielder"
+WingerAttacking midfielder","['forward', 'midfielder', 'midfielder']"
 560,Mario Jardel,"
-Striker"
+Striker",['forward']
 561,Mario Basler,"
-Right midfielder"
+Right midfielder","['midfielder', 'midfielder']"
 562,Hernán Crespo,"
-Striker"
+Striker",['forward']
 563,Andy Cole,"
-Striker"
+Striker",['forward']
 564,David Ginola,"
-Winger, midfielder"
+Winger, midfielder","['forward', 'midfielder']"
 565,Claudio López,"
-Forward"
+Forward",['forward']
 566,Marcelo Salas,"
-Striker"
+Striker",['forward']
 567,Thierry Henry,"
-Striker"
+Striker",['forward']
 568,Alessandro Nesta,"
-Centre back[2]"
+Centre back[2]",['defender']
 569,Gaizka Mendieta,"
-Midfielder"
+Midfielder",['midfielder']
 570,Francesco Toldo,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 571,Francesco Totti,"
-Attacking midfielder, forward"
+Attacking midfielder, forward","['forward', 'midfielder', 'midfielder']"
 572,Hakan Şükür,"
-Striker"
+Striker",['forward']
 573,Fernando Redondo,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 574,David Trezeguet,"
-Striker"
+Striker",['forward']
 575,Oliver Kahn,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 576,Henrik Larsson,"
-Striker"
+Striker",['forward']
 577,Giovane Élber,"
-Striker"
+Striker",['forward']
 578,Damiano Tommasi,"
-Midfielder"
+Midfielder",['midfielder']
 579,Sami Hyypia,"
-Centre-back"
+Centre-back",['defender']
 580,Emmanuel Olisadebe,"
-Striker"
+Striker",['forward']
 581,Ebbe Sand,"
-Forward"
+Forward",['forward']
 582,Steven Gerrard,"
-Midfielder"
+Midfielder",['midfielder']
 583,Michael Ballack,"
-Midfielder"
+Midfielder",['midfielder']
 584,Yildiray Bastürk,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 585,Hasan Sas,"
-Winger"
+Winger",['forward']
 586,Ronaldinho,"
-Attacking midfielder, winger"
+Attacking midfielder, winger","['forward', 'midfielder', 'midfielder']"
 587,Ruud van Nistelrooy,"
-Striker"
+Striker",['forward']
 588,Bernd Schneider,"
-Midfielder"
+Midfielder",['midfielder']
 589,Juan Carlos Valerón,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 590,Cafu,"
-Right back"
+Right back",['defender']
 591,Patrick Vieira,"
-Midfielder"
+Midfielder",['midfielder']
 592,Lucio,"
-Centre-back"
+Centre-back",['defender']
 593,Pape Bouba Diop,"
-Defensive midfielder, centre back"
+Defensive midfielder, centre back","['midfielder', 'midfielder', 'defender']"
 594,El-Hadji Diouf,"
-Winger, forward"
+Winger, forward","['forward', 'forward']"
 595,Rio Ferdinand,"
-Centre-back"
+Centre-back",['defender']
 596,Rubén Baraja,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 597,Filippo Inzaghi,"
-Striker"
+Striker",['forward']
 598,Roy Makaay,"
-Centre-forward"
+Centre-forward","['forward', 'forward']"
 599,Gianluigi Buffon,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 600,Dida,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 601,Deco,"
-Midfielder"
+Midfielder",['midfielder']
 602,Nihat Kahveci,"
-Forward"
-603,Zlatan Ibrahimović,
+Forward",['forward']
+603,Zlatan Ibrahimović,,
 604,Jan Koller,"
-Striker"
+Striker",['forward']
 605,Adrian Mutu,"
-Forward, winger"
+Forward, winger","['forward', 'forward']"
 606,Theodoros Zagorakis,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 607,Adriano Ribeiro Leite,"
-Striker"
+Striker",['forward']
 608,Wayne Rooney,"
-Forward, midfielder[3]"
+Midfielder",['midfielder']
 609,Ricardo Carvalho,"
-Centre back"
+Centre back",['defender']
 610,Angelos Charisteas,"
-Forward"
-611,Cristiano Ronaldo,
+Forward",['forward']
+611,Cristiano Ronaldo,"
+Forward",['forward']
 612,Milan Baros,"
-Striker"
+Striker",['forward']
 613,Samuel Eto'o,"
-Striker"
+Striker",['forward']
 614,Kaká,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 615,Traianos Dellas,"
-Centre back"
+Centre back",['defender']
 616,Fernando Morientes,"
-Striker"
+Striker",['forward']
 617,Frank Lampard,"
-Left-back"
+Left-back",['defender']
 618,Didier Drogba,"
-Striker"
+Striker",['forward']
 619,Ludovic Giuly,"
-Winger"
+Winger",['forward']
 620,Maniche,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 621,Antonios Nikopolidis,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 622,Vicente Rodríguez,"
-Winger"
+Winger",['forward']
 623,John Terry,"
-Centre-back"
+Centre-back",['defender']
 624,Juninho Pernambucano,"
-Midfielder"
+Midfielder",['midfielder']
 625,Claude Makélélé,"
-Defensive midfielder[4]"
+Defensive midfielder[4]","['midfielder', 'midfielder']"
 626,Juan Riquelme,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 627,Petr Cech,"Association football careerPosition(s)
 Goalkeeper[3]Youth career1989–1999
 Viktoria PlzeňSenior career*Years
@@ -1933,227 +1931,227 @@ Winner
 GoaltenderCatches
 rightPlayed for
 Guildford PhoenixPlaying career
-2019–present"
+2019–present",['goalkeeper']
 628,Jamie Carragher,"
-Defender"
+Defender",['defender']
 629,Michael Essien,"
-Midfielder"
+Midfielder",['midfielder']
 630,Luis Garcia,"
-Winger, attacking midfielder"
+Winger, attacking midfielder","['forward', 'midfielder', 'midfielder']"
 631,Fabio Cannavaro,"
-Centre-back"
+Centre-back",['defender']
 632,Miroslav Klose,"
-Striker"
+Striker",['forward']
 633,Andrea Pirlo,"
-Midfielder"
+Midfielder",['midfielder']
 634,Jens Lehmann,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 635,Franck Ribéry,"
-Winger"
+Winger",['forward']
 636,Gennaro Gattuso,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 637,Lukas Podolski,"
-Forward[3]"
+Forward[3]",['forward']
 638,Carles Puyol,"
-Defender"
-639,Lionel Messi,
+Defender",['defender']
+639,Lionel Messi,,
 640,Luca Toni,"
-Striker"
+Striker",['forward']
 641,Gianluca Zambrotta,"
-Full-back"
+Full-back",['defender']
 642,Philipp Lahm,"
-Full-back"
+Full-back",['defender']
 643,David Villa,"
-Striker"
+Striker",['forward']
 644,Ruud Van Nistelrooy,"
-Striker"
+Striker",['forward']
 645,Cesc Fàbregas,"
-Midfielder"
+Midfielder",['midfielder']
 646,Robinho,"
-Forward"
+Forward",['forward']
 647,Frédéric Kanouté,"
-Striker"
+Striker",['forward']
 648,Dani Alves,"
-Right-back"
+Right-back",['defender']
 649,Iker Casillas,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 650,Rógerio Ceni,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 651,Younis Mahmoud,"
-Forward"
+Forward",['forward']
 652,Dimitar Berbatov,"
-Striker"
+Striker",['forward']
 653,Guillermo Ochoa,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 654,Carlos Tévez,"
-Forward"
+Forward",['forward']
 655,Robin Van Persie,"
-Striker"
+Striker",['forward']
 656,Fernando Torres,"
-Striker"
+Striker",['forward']
 657,Xavi,"
-Midfielder"
+Midfielder",['midfielder']
 658,Andrei Arshavin,"
-Winger, Attacking midfielder"
+Winger, Attacking midfielder","['forward', 'midfielder', 'midfielder']"
 659,Marcos Senna,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 660,Emmanuel Adebayor,"
-Striker"
+Striker",['forward']
 661,Sergio Agüero,"
-Striker"
+Striker",['forward']
 662,Sergio Ramos,"
-Defender"
+Defender",['defender']
 663,Nemanja Vidić,"
-Centre-back"
+Centre-back",['defender']
 664,Edwin van der Sar,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 665,Andrés Iniesta,"
-Midfielder"
+Midfielder",['midfielder']
 666,Edin Džeko,"
-Striker"
+Striker",['forward']
 667,Luís Fabiano Clemente,"
-Striker"
+Striker",['forward']
 668,Diego Forlán,"
-Forward"
+Forward",['forward']
 669,Yoann Gourcuff,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 670,Júlio César Soares Espíndola,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 671,Maicon,"
-Right-back, Right wing-back"
+Right-back, Right wing-back","['defender', 'defender']"
 672,Diego Ribas da Cunha,"
-Attacking midfielder, central midfielder"
+Attacking midfielder, central midfielder","['midfielder', 'midfielder', 'midfielder']"
 673,Yaya Touré,"
-Midfielder"
+Midfielder",['midfielder']
 674,Wesley Sneijder,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 675,Xabi Alonso,"
-Midfielder"
+Midfielder",['midfielder']
 676,Mesut Özil,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 677,Arjen Robben,"
-Winger"
+Winger",['forward']
 678,Thomas Müller,"
-Attacking midfielder, forward"
+Attacking midfielder, forward","['forward', 'midfielder', 'midfielder']"
 679,Bastian Schweinsteiger,"
-Midfielder"
+Midfielder",['midfielder']
 680,Asamoah Gyan,"
-Striker"
+Striker",['forward']
 681,Júlio César,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 682,Luis Suárez Díaz,"
-Striker"
+Striker",['forward']
 683,Neymar,"
-Forward"
+Forward",['forward']
 684,Éric Abidal,"
-Defender"
+Defender",['defender']
 685,Karim Benzema,"
-Striker"
+Striker",['forward']
 686,Nani,"
-Winger"
+Winger",['forward']
 687,Gerard Piqué,"
-Centre-back"
+Centre-back",['defender']
 688,Radamel Falcao,"
-Striker"
+Striker",['forward']
 689,Robin van Persie,"
-Striker"
+Striker",['forward']
 690,Manuel Neuer,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 691,Sergio Busquets,"
-Defensive midfielder"
+Defensive midfielder","['midfielder', 'midfielder']"
 692,Mario Balotelli,"
-Striker"
+Striker",['forward']
 693,Gareth Bale,"
-Winger"
+Winger",['forward']
 694,Robert Lewandowski,"
-Striker"
+Striker",['forward']
 695,Edinson Cavani,"
-Striker"
+Striker",['forward']
 696,Thiago Silva,"
-Centre back"
+Centre back",['defender']
 697,Eden Hazard,"
-Winger, attacking midfielder"
+Winger, attacking midfielder","['forward', 'midfielder', 'midfielder']"
 698,James Rodríguez,"
-Attacking midfielderWinger"
+Attacking midfielderWinger","['forward', 'midfielder', 'midfielder']"
 699,Toni Kroos,"
-Midfielder"
+Midfielder",['midfielder']
 700,Ángel Di María,"
-WingerAttacking midfielder"
+WingerAttacking midfielder","['forward', 'midfielder', 'midfielder']"
 701,Diego Costa,"
-Striker"
+Striker",['forward']
 702,Mario Götze,"
-Attacking midfielder,[3] forward[4]"
+Attacking midfielder,[3] forward[4]","['forward', 'midfielder', 'midfielder']"
 703,Javier Mascherano,"
-Centre-back / Defensive midfielder"
+Centre-back / Defensive midfielder","['defender', 'midfielder', 'midfielder']"
 704,Thibaut Courtois,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 705,Paul Pogba,"
-Midfielder"
+Midfielder",['midfielder']
 706,Alexis Sánchez,"
-Forward"
+Forward",['forward']
 707,Arturo Vidal,"
-Midfielder"
+Midfielder",['midfielder']
 708,Kevin De Bruyne,"
-Midfielder[3]"
+Midfielder[3]",['midfielder']
 709,Ivan Rakitić,"
-Midfielder"
+Midfielder",['midfielder']
 710,Antoine Griezmann,"
-Forward"
+Forward",['forward']
 711,Riyad Mahrez,"
-Winger"
+Winger",['forward']
 712,Jamie Vardy,"
-Striker"
+Striker",['forward']
 713,Pepe,"
-Centre back"
+Centre back",['defender']
 714,Pierre-Emerick Aubameyang,"
-Striker"
+Striker",['forward']
 715,Rui Patrício,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 716,Luka Modrić,"
-Midfielder"
+Midfielder",['midfielder']
 717,Dimitri Payet,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 718,Paulo Dybala,"
-Forward, attacking midfielder"
+Forward, attacking midfielder","['forward', 'midfielder', 'midfielder']"
 719,Diego Godín,"
-Centre-back"
+Centre-back",['defender']
 720,Gonzalo Higuaín,"
-Striker"
+Striker",['forward']
 721,Koke,"
-Midfielder"
+Midfielder",['midfielder']
 722,Hugo Lloris,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 723,Kylian Mbappé,"
-Forward"
+Forward",['forward']
 724,N'Golo Kanté,"
-Central midfielder"
+Central midfielder","['midfielder', 'midfielder']"
 725,Harry Kane,"
-Striker"
+Striker",['forward']
 726,Isco,"
-Attacking midfielder"
+Attacking midfielder","['midfielder', 'midfielder']"
 727,Marcelo,"
-Left-back"
+Left-back",['defender']
 728,David de Gea,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 729,Leonardo Bonucci,"
-Centre-back"
+Centre-back",['defender']
 730,Sadio Mané,"
-Forward / Winger[4]"
+Forward / Winger[4]","['forward', 'forward']"
 731,Jan Oblak,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 732,Mats Hummels,"
-Centre-back"
+Centre-back",['defender']
 733,Philippe Coutinho,"
-Attacking midfielder / Winger"
+Attacking midfielder / Winger","['forward', 'midfielder', 'midfielder']"
 734,Dries Mertens,"
-Forward"
+Forward",['forward']
 735,Mohamed Salah,"
-Forward"
+Forward",['forward']
 736,Raphaël Varane,"
-Centre-back"
+Centre-back",['defender']
 737,Roberto Firmino,"
-Forward, attacking midfielder"
+Forward, attacking midfielder","['forward', 'midfielder', 'midfielder']"
 738,Alisson,"
-Goalkeeper"
+Goalkeeper",['goalkeeper']
 739,Mario Mandžukić,"
-Striker"
+Striker",['forward']
