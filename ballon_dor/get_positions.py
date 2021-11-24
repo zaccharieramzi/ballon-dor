@@ -104,4 +104,5 @@ def wikipedia_position_to_vetted_position(wikipedia_position):
     for vp, p_name in VETTED_POSITIONS.items():
         if vp in wikipedia_position:
             vetted_position.append(p_name)
+    vetted_position = set(vetted_position)
     return vetted_position
