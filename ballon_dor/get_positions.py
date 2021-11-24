@@ -88,8 +88,18 @@ def save_players_positions(df, name='players_positions'):
     s_players = pd.Series(df['Player'].unique(), name='Player')
     s_positions = Parallel(-1)(delayed(get_wikipedia_positions)(player) for player in s_players)
     s_positions = pd.Series(s_positions, name='Wikipedia_position')
-    df_players = pd.concat([s_players, s_positions], axis=1)
+    vetted_positions = Parallel(-1)(delayed(wikipedia_position_to_vetted_position)(p) for p in s_positions)
+    s_vetted_positions = pd.Series(vetted_positions, name='Vetted_position')
+    df_players = pd.concat([s_players, s_positions, s_vetted_positions], axis=1)
     csv_name = f'{name}_{int(time.time())}.csv'
     df_players.to_csv(csv_name)
     df = pd.merge(df, df_players, on='Player')
     return df
+
+def wikipedia_position_to_vetted_position(wikipedia_position):
+    wikipedia_position = wikipedia_position.lower()
+    vetted_position = []
+    for vp, p_name in VETTED_POSITIONS.items():
+        if vp in wikipedia_position:
+            vetted_position.append(p_name)
+    return vetted_position
