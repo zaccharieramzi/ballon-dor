@@ -5,7 +5,7 @@ from ballon_dor.get_positions import save_players_positions
 
 
 DF_BALLON_DOR = pd.read_csv(CSV_PATH)
-RELOAD_POSITIONS = False
+RELOAD_POSITIONS = True
 
 
 def get_ranking_on_period(year_begin, year_end):
@@ -27,4 +27,4 @@ if RELOAD_POSITIONS:
 else:
     df_positions = pd.read_csv(CSV_POSITIONS_PATH)
     df = pd.merge(DF_BALLON_DOR, df_positions, on='Player')
-    
+

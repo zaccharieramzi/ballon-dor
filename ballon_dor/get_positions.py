@@ -97,6 +97,8 @@ def save_players_positions(df, name='players_positions'):
     return df
 
 def wikipedia_position_to_vetted_position(wikipedia_position):
+    if wikipedia_position is None:
+        return None
     wikipedia_position = wikipedia_position.lower()
     vetted_position = []
     for vp, p_name in VETTED_POSITIONS.items():
