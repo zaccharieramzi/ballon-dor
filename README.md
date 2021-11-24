@@ -4,3 +4,4 @@
 
 
 A nice repo to inspect ballon d'or data.
+Data courtesy of Josip Korda, on [data.world](https://data.world/johayes13/ballon-dor-voting-history).
